@@ -7,11 +7,11 @@ README
 This is Python data for (re)producing the results in the paper  
 "A deep neural network for fast and accurate scatter estimation in quantitative SPECT/CT under challenging scatter conditions,"  
 Haowei Xiang, Hongki Lim, Jeffrey A. Fessler, Yuni K. Dewaraja, 2020  
-[todo: add link to the paper (after online link is available)]  
+[<http://doi.org/10.1007/s00259-020-04840-9>]  
 Published in
 European Journal of Nuclear Medicine (EJNM)
 
-
+The corresponding Python code is available on [https://github.com/haoweix/spect-scatter-deep-learning]
 
 ### Content:
 
