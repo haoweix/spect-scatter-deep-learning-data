@@ -24,4 +24,5 @@ European Journal of Nuclear Medicine (EJNM)
     - ```cat_nema_w_noise_Apr2019.mat```: Monte Carlo simulation of 'NEMA' phantom.
     - ```cat_shell_measure_Aug2019.mat```: First measuement of 'shell' phantom (2 layers of activity).
     - ```cat_shell2_measure_08202019.mat```: Second measuement of 'shell' phantom (3 layers of activity).
-- According to rule of sharing real patient data, real patient data is available on [<https://doi.org/10.7302/v07v-z854>]:# spect-scatter-deep-learning-data
+- According to rule of sharing real patient data, real patient data is available on [<https://doi.org/10.7302/v07v-z854>].
+
